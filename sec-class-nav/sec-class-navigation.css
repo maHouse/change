@@ -1,4 +1,4 @@
- *{
+*{
 	margin: 0; 
 	padding: 0; 
 }
@@ -48,44 +48,3 @@ ul li ul{
 ul li:hover ul{
 	/*display: block; */
 } 
-/**{
-	margin: 0;
-	padding: 0;
-}
-ul{
-	list-style: none;
-}
-div{
-	width: 450px;
-	height: 30px;
-	line-height: 30px;
-	margin: 10% auto;
-	background-color: #EEE;
-}
-a{
-	text-decoration: none;
-	color: #333;
-	display: block;
-	text-align: center;
-}
-a:link,a:visited{
-	background-color: #EEE;
-}
-a:hover{
-	background-color: red;
-	color: #fff;
-}
-
-
-div>ul{
-	display: flex;
-}
-div>ul>li{
-	flex: 1;
-}
-div>ul>li ul{
-	display: none;
-}
-div>ul>li:hover ul{
-	display: block;
-}*/
